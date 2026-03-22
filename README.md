@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Olá, eu sou o Mauro Resende! 👋
 
-### Desenvolvedor Front-end em formação | Serra - ES
+### Desenvolvedor Full Stack em formação | Serra - ES
 
 Técnico de Planejamento e estudante de Engenharia de Produção em transição para desenvolvimento web. Estudo 4-5h por dia com foco em me tornar desenvolvedor full stack.
 
