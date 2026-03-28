@@ -27,6 +27,7 @@ Combino visão analítica de processos com desenvolvimento de software — entre
 | 🎬 [CineSearch](https://github.com/mauro-resende/cine-search) | Buscador de filmes com pesquisa em tempo real | React, TMDB API |
 | ✅ [Projeto Todo](https://github.com/mauro-resende/projeto-todo) | Lista de tarefas com persistência local | HTML, CSS, JS, localStorage |
 | 🔗 [DevLinks](https://github.com/mauro-resende/devlinks) | Página de links com dark/light mode | HTML, CSS, JS |
+| 💈 [Barbearia Elite](https://github.com/mauro-resende/barbearia-elite) | Landing page para barbearia com WhatsApp | HTML, CSS, JS |
 
 ---
 
