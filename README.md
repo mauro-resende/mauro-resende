@@ -24,10 +24,22 @@ Combino visão analítica de processos com desenvolvimento de software — entre
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| 🛒 [SupriMais — Loja Virtual](https://github.com/mauro-resende/loja-virtual) | E-commerce fullstack com pagamento via Mercado Pago | React, Node.js, PostgreSQL, Mercado Pago |
 | 🎬 [CineSearch](https://github.com/mauro-resende/cine-search) | Buscador de filmes com pesquisa em tempo real | React, TMDB API |
 | ✅ [Projeto Todo](https://github.com/mauro-resende/projeto-todo) | Lista de tarefas com persistência local | HTML, CSS, JS, localStorage |
 | 🔗 [DevLinks](https://github.com/mauro-resende/devlinks) | Página de links com dark/light mode | HTML, CSS, JS |
 | 💈 [Barbearia Elite](https://github.com/mauro-resende/barbearia-elite) | Landing page para barbearia com WhatsApp | HTML, CSS, JS |
+
+---
+
+### 📦 SupriMais — Próximas atualizações
+
+- [ ] Order Bump / Upsell no checkout
+- [ ] Pixel do Facebook e Google Analytics
+- [ ] Produtos relacionados
+- [ ] Cupom de desconto
+- [ ] Cálculo de frete por CEP
+- [ ] E-mail automático após compra
 
 ---
 
